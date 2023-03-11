@@ -1,0 +1,7 @@
+./.idea
+./venv
+db.sqlite3
+/media
+/static/orders
+/static/users
+/products/fixtures
